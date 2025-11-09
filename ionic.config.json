@@ -1,0 +1,7 @@
+{
+  "name": "ProjekMobileApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
